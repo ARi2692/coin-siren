@@ -67,10 +67,6 @@ const BodySection = () => {
       <div className={`text-2xl text-white font-bold fade-in-up ${isTitleVisible ? "fade-in-up" : "opacity-0"} mt-4`}>
         법률 및 인사관리 부담없이 1주일 이내에 원격으로 채용해보세요.
       </div>
-
-      <div className={`text-xl font-bold underline text-white fade-in-up ${isTitleVisible ? "fade-in-up" : "opacity-0"} mt-4`}>
-        개발자가 필요하신가요?
-      </div>
     </>
   );
 };

@@ -56,7 +56,7 @@ const ImageCard = () => {
                 <Image
                   src={profile.img}
                   alt={profile.name}
-                  width={300}
+                  width={250}
                   height={350}
                   className="mx-auto"
                 />

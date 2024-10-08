@@ -19,7 +19,7 @@ const BodySection = () => {
 
   return (
     <div
-      className={`text-2xl font-bold underline text-white fade-in-up ${isTitleVisible ? "fade-in-up" : "opacity-0"} mt-4`}
+      className={`text-xl font-bold underline text-white fade-in-up ${isTitleVisible ? "fade-in-up" : "opacity-0"} mt-4`}
     >
       개발자가 필요하신가요?
     </div>

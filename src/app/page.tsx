@@ -8,7 +8,7 @@ import Footer from "./components/organisms/Footer";
 const Home: React.FC = () => (
   <div className="flex flex-col min-h-screen bg-gradient-to-r from-custom-start to-custom-end">
     <Nav />
-    <main className="flex-grow mt-8 mx-20">
+    <main className="flex-grow mt-8 mx-40">
     <Hero />
     </main>
     <Footer />
